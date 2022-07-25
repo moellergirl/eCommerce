@@ -36,10 +36,10 @@ nav a{
 } 
 
 main section {
-    margin-top: ;}
+    margin-top: 0; }
 
-}
-
+.mag_glass img  {
+    height: 20px;
 }
 
 footer {
